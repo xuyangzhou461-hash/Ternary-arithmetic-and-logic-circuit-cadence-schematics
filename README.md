@@ -139,7 +139,7 @@ Circuit schematics for Ternary Half Adders (THA), Ternary NAND (TNAND), Ternary 
 </table>
 
 
-### SIT Delay Profiles
+### STI Delay Profiles
 
 <table>
   <tr>
