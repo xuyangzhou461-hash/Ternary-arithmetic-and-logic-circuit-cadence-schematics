@@ -1,5 +1,5 @@
 # Compatibility Warning
-Read if you wish to use the recreate the provided schematics:
+Read if you wish to recreate the provided schematics:
 
 **You need**: tsmc18rf technology library, Stanford CNFET models, Cadence Virtuoso, original parameters from references.
 
