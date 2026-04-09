@@ -1,5 +1,5 @@
 # Compatibility Warning
-Read if you wish to recreate the provided schematics:
+Read if you wish to recreate the following ternary circuit schematics:
 
 **You need**: tsmc18rf technology library, Stanford CNFET models, Cadence Virtuoso, original parameters from references.
 
