@@ -13,6 +13,7 @@ This repository is an extension to the ipq project and contains a complete suite
 3. **Interconnect Reduction:** Due to higher information density, ternary systems require fewer physical wires. For example, representing 32 states requires 5 binary bits but only 3 ternary trits, resulting in a 66.7% reduction in wires.
 
 
+
 # Repository Contents:
 Circuit schematics for Ternary Half Adders (THA), Ternary NAND (TNAND), Ternary NOR (TNOR), and Standard Ternary Inverters (STI).
 
